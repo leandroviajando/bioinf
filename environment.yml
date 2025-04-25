@@ -1,0 +1,14 @@
+name: bioinf
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python==3.11
+  - black==25.1.0
+  - isort==6.0.1
+  - mypy==1.11.2
+  - ruff==0.11.4
+  - pytest==8.3.5
+  - ipykernel==6.29.5
+  - biopython==1.85
+  - matplotlib==3.10.1
