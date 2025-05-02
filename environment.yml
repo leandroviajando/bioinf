@@ -13,3 +13,4 @@ dependencies:
   - biopython==1.85
   - matplotlib==3.10.1
   - requests==2.32.3
+  - tqdm==4.67.1
